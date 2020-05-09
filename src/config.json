@@ -1,0 +1,19 @@
+{
+    "yLength" : 0.2,
+    "xLength" : 0.1,
+
+    "yGrid" : 60,
+    "xGrid" : 60,
+
+    "rho" : 1600,
+    "k" : 3,
+    "cp" : 0.8,
+
+    "TOL" : 1e-3,
+
+    "leftBoundTemp" : 300,
+    "rightBoundTemp" : 300,
+    "bottomBoundTemp" : 0,
+    "topBoundTemp" : 0
+
+}
